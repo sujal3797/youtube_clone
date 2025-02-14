@@ -15,7 +15,7 @@ function Navbar() {
             </div>
             <div className='flex gap-2 items-center justify-center'>
                 <BsYoutube className='text-3xl text-red-500 '/>
-                <span className='text-2xl font-semibold'>YouTube</span>
+                <span className='text-2xl font-semibold'>VidTube</span>
             </div>
         </div>
         <div className='flex items-center gap-5 justify-center'>
